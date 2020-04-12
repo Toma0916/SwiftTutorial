@@ -9,3 +9,4 @@ Tour List
 3. ControlFlow  
 4. FunctionAndClosures  
 5. ObjectAndClasses
+6. EnumerationsAndStructures
