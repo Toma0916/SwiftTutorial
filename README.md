@@ -6,4 +6,5 @@ Tour List
   
 1. HelloWorld  
 2. SimpleVariables  
-3. ControlFlow
+3. ControlFlow  
+4. FunctionAndClosures  
